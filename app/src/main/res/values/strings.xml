@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Bible</string>
+    <string name="bible_url">https://yesu.io/</string>
+</resources>
